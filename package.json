@@ -9,7 +9,7 @@
     "react-scripts": "3.0.1",
     "react-validation": "^3.0.7",
     "reactstrap": "^8.0.0",
-    "validator": "^11.0.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
